@@ -1,0 +1,10 @@
+{
+	"ein": "41-6031039",
+	"name" : "APACHE FOUNDATION",
+	"payments" : {
+		"bitcoin" : {
+			"address" : "1BtjAzWGLyAavUkbw3QsyzzNDKdtPXk95D",
+			"confirmation" : "http://www.apache.org/foundation/contributing.html"
+		}
+	}
+}
