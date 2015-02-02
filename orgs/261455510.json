@@ -1,0 +1,11 @@
+{
+	"ein" : "26-1455510",
+	"name" : "The Water Project, Inc",
+	"address" : "PO Box 3353 Concord, NH 03302",
+	"payments" : {
+		"bitcoin" : {
+			"address" : "14xEPWuHC3ybPMfv8iTZZ29UCLTUSoJ8HL",
+			"confirmation" : "https://thewaterproject.org/donate-bitcoin"
+		}
+	}
+}

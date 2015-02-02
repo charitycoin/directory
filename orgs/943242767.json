@@ -1,0 +1,11 @@
+{
+	"ein" : "94-3242767",
+	"name" : "INTERNET ARCHIVE",
+	"address" : "300 Funston Ave San Francisco, CA 94118",
+	"payments" : {
+		"bitcoin" : {
+			"address" : "1Archive1n2C579dMsAu3iC6tWzuQJz8dN",
+			"confirmation" : "https://archive.org/donate/bitcoin.php"
+		}
+	}
+}
