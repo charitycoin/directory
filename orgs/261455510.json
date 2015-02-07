@@ -5,7 +5,7 @@
 	"payments" : {
 		"bitcoin" : {
 			"address" : "14xEPWuHC3ybPMfv8iTZZ29UCLTUSoJ8HL",
-			"confirmation" : "https://thewaterproject.org/donate-bitcoin"
+			"confirmation" : "https://thewaterproject.org/donate-bitcoin/"
 		}
 	}
 }

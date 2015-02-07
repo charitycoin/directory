@@ -4,8 +4,8 @@
 	"address" : "149 NEW MONTGOMERY ST FL 3, SAN FRANCISCO, CA 94105-3740",
 	"payments" : {
 		"coinbase" : {
-			"address" : "https://coinbase.com/checkouts/44aa9355518928151be736fbd043236c" 
-			"confirmation:" "http://wikimediafoundation.org/wiki/Ways_to_Give"
+			"address" : "https://coinbase.com/checkouts/44aa9355518928151be736fbd043236c",
+			"confirmation" : "http://wikimediafoundation.org/wiki/Ways_to_Give"
 		}
 	}
 }

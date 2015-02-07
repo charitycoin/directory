@@ -4,7 +4,7 @@
 	"address" : "701 N Fairfax St Alexandria, VA 22314",
 	"payments" : {
 		"coinbase" : {
-			"address" : "https://www.coinbase.com/inline_payments/f701f89fb1bc664c2e7706490decb9d4",
+			"address" : "https://coinbase.com/inline_payments/f701f89fb1bc664c2e7706490decb9d4",
 			"confirmation" : "http://www.unitedway.org/pages/donate-bitcoin-to-united-way"
 		}
 	}
