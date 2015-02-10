@@ -21,7 +21,8 @@ For example, the ```.json``` file describing the Apache Foundation, looks like t
 }
 ```
 
-A test script, ```test.py``` scrapes the confirmation urls and looks for the associated address (or the coinbase url). 
+## verification
+A simple python script, ```test.py``` grabs the markup from the url listed in the "confirmation" field in each entry. The script checks that the address is present in the markup. This script is run on TravisCI. If there's a missmatch, the build will be labeled as "failing". There may be better ways to do this.
 
 ## contributing
 There are 1.2 million nonprofits and this index contains a lot less than that. If you know of an organization that accepts bitcion but is not indexed, please open an issue or a pull request.
