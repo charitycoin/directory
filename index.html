@@ -31,9 +31,30 @@
         <h2>
 <a id="bring-donations-to-the-digital-age" class="anchor" href="#bring-donations-to-the-digital-age" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bring Donations to the digital age.</h2>
 
-<p>Donating to nonprofits can be easier and more efficient.</p>
+<h3>
+<a id="what-is-this" class="anchor" href="#what-is-this" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is this?</h3>
 
-<p>Cryptocurrencies like Bitcoin enable fast and efficient transfers of money. No credit card processing fees, no waiting days for ACH transfers to clear. Some nonprofits publish their bitcoin wallet addresses, but that information is scattered around the internet. I want to build a free, open, crowd-sourced directory linking charities to their Bitcoin wallets.</p>
+<p>CharityCoin is a free, open, crowd-sourced directory linking charities to their Bitcoin wallets. It's like onename or keybase, but the information is compiled, organized, and verified by people like you.</p>
+
+<h3>
+<a id="why-on-earth-would-anyone-want-to-do-this" class="anchor" href="#why-on-earth-would-anyone-want-to-do-this" aria-hidden="true"><span class="octicon octicon-link"></span></a>Why on earth would anyone want to do this?</h3>
+
+<p>Cryptocurrencies like Bitcoin enable fast and efficient transfers of money. No credit card processing fees, no waiting days for ACH transfers to clear. Some nonprofits publish their bitcoin wallet addresses, but that information is currently not available from a single, reliable source.</p>
+
+<h3>
+<a id="what-are-you-going-to-do-with-this-information" class="anchor" href="#what-are-you-going-to-do-with-this-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>What are you going to do with this information?</h3>
+
+<p>Once this data is in a structured format, it's easy to export or migrate to a database. Eventually I'd like to host an API for looking up bitcoin addresses.</p>
+
+<h3>
+<a id="how-do-you-verify-bitcoin-addresses" class="anchor" href="#how-do-you-verify-bitcoin-addresses" aria-hidden="true"><span class="octicon octicon-link"></span></a>How do you verify bitcoin addresses?</h3>
+
+<p>Right now, a simple python script grabs the markup from the url listed in the "confirmation" field in each entry. The script checks that the address is present in the markup. This script is run on TravisCI for every pull request and every commit to master. If there's a missmatch, the build will be labeled as "failing". There may be better ways to do this. If you know of any, get in touch!</p>
+
+<h3>
+<a id="how-can-i-get-involved" class="anchor" href="#how-can-i-get-involved" aria-hidden="true"><span class="octicon octicon-link"></span></a>How can I get involved?</h3>
+
+<p>There are 1.3 million registered nonprofits, and a growing number accept bitcoin. This is not a job for one person. The most direct way to help is to submit an issue or a pull request for an organization that should be listed but isn't.</p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/charity-coin">charity-coin</a></p>
