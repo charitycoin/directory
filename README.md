@@ -21,7 +21,7 @@ For example, the ```.json``` file describing the Apache Foundation, looks like t
 }
 ```
 
-A test script, ```test.py``` scrapes the confirmation urls and looks for the associated address (or in the case of coinbase, the coinbase url). 
+A test script, ```test.py``` scrapes the confirmation urls and looks for the associated address (or the coinbase url). 
 
 ## contributing
 There are 1.2 million nonprofits and this index contains a lot less than that. If you know of an organization that accepts bitcion but is not indexed, please open an issue or a pull request.
