@@ -22,7 +22,7 @@ For example, the ```.json``` file describing the Apache Foundation, looks like t
 ```
 
 ## verification
-A simple python script, ```test.py``` grabs the markup from the url listed in the "confirmation" field in each entry. The script checks that the address is present in the markup. I manually check that the organization's domain name matches the one listed on guidestar[http://www.guidestar.org/] TravisCI runs the script. If there's a missmatch, the build will be labeled as "failing". There may be better ways to do this.
+A simple python script, ```test.py``` grabs the markup from the url listed in the "confirmation" field in each entry. The script checks that the address is present in the markup. I manually check that the organization's domain name matches the one listed on [guidestar](http://www.guidestar.org/) TravisCI runs the script. If there's a missmatch, the build will be labeled as "failing". There may be better ways to do this.
 
 ## contributing
 There are 1.2 million nonprofits and this index contains a lot less than that. If you know of an organization that accepts bitcion but is not indexed, please open an issue or a pull request.
