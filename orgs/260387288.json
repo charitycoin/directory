@@ -1,0 +1,10 @@
+{
+	"name" : "DIGNITAS INTERNATIONAL USA INC",
+	"ein" : "26-0387288",
+	"payments" : {
+    	"bitcoin" {
+    		"address" : "1P48yFKxUKFhd62sS3tFVE6RG9So7UgBeY",
+    		"confirmation" : "http://dignitasinternational.org/wp-content/uploads/2014/09/unnamed.png"
+    	}
+    }
+}
