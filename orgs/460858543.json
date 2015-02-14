@@ -1,0 +1,10 @@
+{
+    "ein" : "46-0858543",
+	"name" : "Code.org",
+	"payments" : {
+		"coinbase" : {
+			"address" :  "https://www.coinbase.com/codeorg",
+			"confirmation" : "https://code.org/donate"
+		}
+	}
+}
