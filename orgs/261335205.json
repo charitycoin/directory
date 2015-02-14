@@ -1,0 +1,10 @@
+{
+	"ein" : "26-1335205",
+	"name" : "Literacy Bridge",
+	"payments" : {
+		"bitpay" : {
+			"address" :  "https://bitpay.com/621052/donate",
+			"confirmation" : "http://www.literacybridge.org/donate/"
+		}
+	}
+}
