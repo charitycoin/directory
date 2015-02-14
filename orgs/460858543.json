@@ -3,7 +3,7 @@
 	"name" : "Code.org",
 	"payments" : {
 		"coinbase" : {
-			"address" :  "https://www.coinbase.com/codeorg",
+			"address" :  "https://coinbase.com/codeorg",
 			"confirmation" : "https://code.org/donate"
 		}
 	}
