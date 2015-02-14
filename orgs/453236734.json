@@ -1,0 +1,10 @@
+{
+	"ein" : "45-3236734",
+	"name" : "WATSI",
+	"payments" : {
+		"bitcoin" : {
+			"address" :  "1PAt5oKQGBRigFDY6fB2WgQTtQJNzFyTDr",
+			"confirmation" : "http://blog.watsi.org/"
+		}
+	}
+}

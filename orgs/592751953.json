@@ -1,0 +1,10 @@
+{
+	"ein" : "59-2751953",
+	"name" : "Multidisciplinary Association For Psychedelic Studies",
+	"payments" : {
+		"bitcoin" : {
+			"address" :  "1MnCMV9DyVdDZWMfjymbLDKv48UKhoXHEz",
+			"confirmation" : "http://www.maps.org/donate-redirect/bitcoin"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ein" : "35-2326522",
+	"name" : "Operation Fistula",
+	"payments" : {
+		"bitcoin" : {
+			"address" :  "1B6wymSS5tan43Gezjdjge19Vaxjr9fjGa",
+			"confirmation" : "http://www.opfistula.org/donate/"
+		}
+	}
+}
