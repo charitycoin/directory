@@ -1,0 +1,10 @@
+{
+	"ein" : "52-1541501",
+	"name" : "Greenpeace, Inc.",
+	"payments" : {
+		"bitpay" : {
+			"address" :  "https://bitpay.com/181852/donate",
+			"confirmation" : "http://greenpeaceblogs.org/2014/09/22/greenpeace-now-accepting-bitcoin-donations/"
+		}
+	}
+}
