@@ -1,0 +1,10 @@
+{
+	"ein" : "20-8096820",
+	"name" : "The Tor Project Inc.",
+	"payments" : {
+		"bitpay" : {
+			"address" :  "",
+			"confirmation" : "https://www.torproject.org/donate/donate.html.en"
+		}
+	}
+}
