@@ -1,0 +1,10 @@
+{
+	"ein" : "27-1661997",
+	"name" : "GiveDirectly, Inc",
+	"payments" : {
+		"coinbase" : {
+			"address" : "https://www.coinbase.com/checkouts/fe543c1fbe3f17ecba299323532ac0c8",
+			"confirmation" : "https://www.givedirectly.org/give-now.php"
+		}
+	}
+}
