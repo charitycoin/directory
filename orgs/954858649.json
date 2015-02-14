@@ -1,0 +1,10 @@
+{
+	"ein" : "95-4858649",
+	"name" : "REEF CHECK FOUNDATION",
+	"payments" : {
+		"bitpay" : {
+			"address" :  "https://bitpay.com/103817/donate",
+			"confirmation" : "https://my.reefcheck.org/myaccount/make_donation.php"
+		}
+	}
+}
