@@ -28,3 +28,6 @@ A simple python script, ```test.py``` grabs the markup from the url listed in th
 There are 1.2 million nonprofits and this index contains a lot less than that. If you know of an organization that accepts bitcion but is not indexed, please open an issue or a pull request.
 
 Also, I welcome any feedback, in the form of messages, issues, and the like. I think this is an important problem to solve, but I'm open to the idea that there are better ways to solve it.
+
+## thanks
+Special thanks to the [Machinecoin Project](http://www.machinecoin.org/)!
