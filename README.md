@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/charity-coin/directory.svg?branch=master)](https://travis-ci.org/charity-coin/directory)
+[![Build Status](https://travis-ci.org/charitycoin/directory.svg?branch=master)](https://travis-ci.org/charity-coin/directory)
 
 # charitycoin
 Charitycoin is an open, crowd-sourced index of registered 501(c)(3) nonprofits and their Bitcoin addresses.
