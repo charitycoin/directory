@@ -1,0 +1,203 @@
+[{
+	"_id": "13-1635294",
+	"address": "701 N Fairfax St Alexandria, VA 22314",
+	"ein": "13-1635294",
+	"name": "United Way Worldwide",
+	"payments": {
+		"coinbase": {
+			"address": "https://coinbase.com/inline_payments/f701f89fb1bc664c2e7706490decb9d4",
+			"confirmation": "http://www.unitedway.org/pages/donate-bitcoin-to-united-way"
+		}
+	}
+},
+{
+	"_id": "20-0049703",
+	"address": "149 NEW MONTGOMERY ST FL 3, SAN FRANCISCO, CA 94105-3740",
+	"ein": "20-0049703",
+	"name": "WIKIMEDIA FOUNDATION INC",
+	"payments": {
+		"coinbase": {
+			"address": "https://coinbase.com/checkouts/44aa9355518928151be736fbd043236c",
+			"confirmation": "http://wikimediafoundation.org/wiki/Ways_to_Give"
+		}
+	}
+},
+{
+	"_id": "26-1335205",
+	"ein": "26-1335205",
+	"name": "Literacy Bridge",
+	"payments": {
+		"bitpay": {
+			"address": "https://bitpay.com/621052/donate",
+			"confirmation": "http://www.literacybridge.org/donate/"
+		}
+	}
+},
+{
+	"_id": "26-1455510",
+	"address": "PO Box 3353 Concord, NH 03302",
+	"ein": "26-1455510",
+	"name": "The Water Project, Inc",
+	"payments": {
+		"bitcoin": {
+			"address": "14xEPWuHC3ybPMfv8iTZZ29UCLTUSoJ8HL",
+			"confirmation": "https://thewaterproject.org/donate-bitcoin/"
+		}
+	}
+},
+{
+	"_id": "26-4576703",
+	"ein": "26-4576703",
+	"name": "WORLD AID FOR HOMELESS CHILDREN INCORPORTED",
+	"payments": {
+		"bitpay": {
+			"address": "https://bitpay.com/216255/donate",
+			"confirmation": "https://worldaid.org/donate-bitcoin-for-charity/"
+		}
+	}
+},
+{
+	"_id": "27-1661997",
+	"ein": "27-1661997",
+	"name": "GiveDirectly, Inc",
+	"payments": {
+		"coinbase": {
+			"address": "https://www.coinbase.com/checkouts/fe543c1fbe3f17ecba299323532ac0c8",
+			"confirmation": "https://www.givedirectly.org/give-now.php"
+		}
+	}
+},
+{
+	"_id": "35-2326522",
+	"ein": "35-2326522",
+	"name": "Operation Fistula",
+	"payments": {
+		"bitcoin": {
+			"address": "1B6wymSS5tan43Gezjdjge19Vaxjr9fjGa",
+			"confirmation": "http://www.opfistula.org/donate/"
+		}
+	}
+},
+{
+	"_id": "41-6031039",
+	"ein": "41-6031039",
+	"name": "APACHE FOUNDATION",
+	"payments": {
+		"bitcoin": {
+			"address": "1BtjAzWGLyAavUkbw3QsyzzNDKdtPXk95D",
+			"confirmation": "http://www.apache.org/foundation/contributing.html"
+		}
+	}
+},
+{
+	"_id": "45-3236734",
+	"ein": "45-3236734",
+	"name": "WATSI",
+	"payments": {
+		"bitcoin": {
+			"address": "1PAt5oKQGBRigFDY6fB2WgQTtQJNzFyTDr",
+			"confirmation": "http://blog.watsi.org/"
+		}
+	}
+},
+{
+	"_id": "46-0858543",
+	"ein": "46-0858543",
+	"name": "Code.org",
+	"payments": {
+		"coinbase": {
+			"address": "https://coinbase.com/codeorg",
+			"confirmation": "https://code.org/donate"
+		}
+	}
+},
+{
+	"_id": "46-2132412",
+	"ein": "46-2132412",
+	"name": "ABOLITIONIST LAW CENTER",
+	"payments": {
+		"bitcoin": {
+			"address": "16TvNewZsFDPKiBAUB5A3oHD5a1WcwK19J",
+			"confirmation": "http://abolitionistlawcenter.org/"
+		}
+	}
+},
+{
+	"_id": "52-1541501",
+	"ein": "52-1541501",
+	"name": "Greenpeace, Inc.",
+	"payments": {
+		"bitpay": {
+			"address": "https://bitpay.com/181852/donate",
+			"confirmation": "http://greenpeaceblogs.org/2014/09/22/greenpeace-now-accepting-bitcoin-donations/"
+		}
+	}
+},
+{
+	"_id": "59-2751953",
+	"ein": "59-2751953",
+	"name": "Multidisciplinary Association For Psychedelic Studies",
+	"payments": {
+		"bitcoin": {
+			"address": "1MnCMV9DyVdDZWMfjymbLDKv48UKhoXHEz",
+			"confirmation": "http://www.maps.org/donate-redirect/bitcoin"
+		}
+	}
+},
+{
+	"_id": "74-2217350",
+	"ein": "74-2217350",
+	"name": "Capital Area Food Bank of Texas, Inc.",
+	"payments": {
+		"bitcoin": {
+			"address": "1ARxKuBArW8XzJQNGoRC5RZBVqhb4Tx5yx",
+			"confirmation": "https://www.austinfoodbank.org/get-involved/donate"
+		}
+	}
+},
+{
+	"_id": "90-0117473",
+	"ein": "90-0117473",
+	"name": "KAYA CHILDREN INTERNATIONAL INC",
+	"payments": {
+		"bitcoin": {
+			"address": "172762VPKetaUvzwdkPuwqXfHjGZrQk7E9",
+			"confirmation": "http://kayachildren.org/bitcoin"
+		}
+	}
+},
+{
+	"_id": "94-3242767",
+	"address": "300 Funston Ave San Francisco, CA 94118",
+	"ein": "94-3242767",
+	"name": "INTERNET ARCHIVE",
+	"payments": {
+		"bitcoin": {
+			"address": "1Archive1n2C579dMsAu3iC6tWzuQJz8dN",
+			"confirmation": "https://archive.org/donate/bitcoin.php"
+		}
+	}
+},
+{
+	"_id": "95-3423566",
+	"ein": "95-3423566",
+	"name": "The Planetary Society",
+	"payments": {
+		"coinbase": {
+			"address": "https://coinbase.com/checkouts/dde8ebe54bae20c8eade7a74c0d0a21c?c=%2Fbitcoin",
+			"confirmation": "http://www.planetary.org/become-a-member/other-ways-to-give/donate-bitcoin.html"
+		}
+	}
+},
+{
+	"_id": "95-4858649",
+	"ein": "95-4858649",
+	"name": "REEF CHECK FOUNDATION",
+	"payments": {
+		"bitpay": {
+			"address": "https://bitpay.com/103817/donate",
+			"confirmation": "https://my.reefcheck.org/myaccount/make_donation.php"
+		}
+	}
+}]
+
