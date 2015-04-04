@@ -1,0 +1,4 @@
+{
+	"dbname" : "nonprofits",
+	"baseurl" : "mongodb://username:password@ds061371.mongolab.com:61371",
+}
