@@ -1,0 +1,10 @@
+{
+	"ein" : "74-2217350",
+	"name" : "Capital Area Food Bank of Texas, Inc.",
+	"payments" : {
+		"bitcoin" : {
+			"address" :  "1ARxKuBArW8XzJQNGoRC5RZBVqhb4Tx5yx",
+			"confirmation" : "https://www.austinfoodbank.org/get-involved/donate"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ein" : "26-4576703",
+	"name" : "WORLD AID FOR HOMELESS CHILDREN INCORPORTED",
+	"payments" : {
+		"bitpay" : {
+			"address" : "https://bitpay.com/216255/donate",
+			"confirmation" : "https://worldaid.org/donate-bitcoin-for-charity/"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ein" : "95-3423566",
+	"name" : "The Planetary Society",
+	"payments" : {
+		"coinbase" : {
+			"address" :  "https://coinbase.com/checkouts/dde8ebe54bae20c8eade7a74c0d0a21c?c=%2Fbitcoin",
+			"confirmation" : "http://www.planetary.org/become-a-member/other-ways-to-give/donate-bitcoin.html"
+		}
+	}
+}

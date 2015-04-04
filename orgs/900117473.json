@@ -1,0 +1,10 @@
+{
+	"ein" : "90-0117473",
+	"name" : "KAYA CHILDREN INTERNATIONAL INC",
+	"payments" : {
+		"bitcoin" : {
+			"address" :  "172762VPKetaUvzwdkPuwqXfHjGZrQk7E9",
+			"confirmation" : "http://kayachildren.org/bitcoin"
+		}
+	}
+}
