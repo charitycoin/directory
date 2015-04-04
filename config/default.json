@@ -1,6 +1,4 @@
 {
 	"dbname" : "nonprofits",
-	"baseurl" : "adrianparsons.cloudant.com",
-	"username" : "",
-	"password" : ""
+	"baseurl" : "mongodb://username:password@ds061371.mongolab.com:61371",
 }
