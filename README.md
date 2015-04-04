@@ -3,6 +3,8 @@
 # charitycoin
 Charitycoin is an open, crowd-sourced index of registered 501(c)(3) nonprofits and their Bitcoin addresses.
 
+[View the current list of nonprofits](https://raw.githubusercontent.com/charitycoin/directory/master/dist/all.json) in the ```dist``` directory.
+
 ## structure
 The ```orgs``` directory contains JSON files for nonprofits. Each nonprofit has its own file, and includes at a minimum the organization's EIN, its bitcoin address and a "confirmation" URL that contains the address. The confirmation URL is usually a page on the organization's site.
 
