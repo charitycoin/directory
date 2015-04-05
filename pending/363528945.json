@@ -1,0 +1,10 @@
+{
+	"ein" : "36-3528945",
+	"name" : "GENERATIONS OF HOPE",
+	"payments" : {
+		"bitpay" : {
+			"address" :  "",
+			"confirmation" : "http://www.generationsofhope.org/donate/"
+		}
+	}
+}
