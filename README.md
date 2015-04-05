@@ -29,6 +29,8 @@ A simple python script, ```test.py``` grabs the markup from the url listed in th
 ## migration
 Another simple python script ```json2mongo.py```, takes the argument of a config file (see the sample in the ```config``` directory, and creates a collection called "orgs" in the given MongoDB database with all the data in the ```orgs``` directory.
 
+Exporting from MongoDB is extremely easy. I run ```mongoexport --jsonArray --pretty -h ds061371.mongolab.com:61371 -d nonprofits -c orgs -u <username> -p <password> -o dist/all.json``` to export all the records as a single, pretty-printed JSON array.
+
 ## contributing
 There are 1.2 million nonprofits and this index contains a lot less than that. If you know of an organization that accepts bitcion but is not indexed, please open an issue or a pull request.
 
