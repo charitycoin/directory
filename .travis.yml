@@ -1,9 +1,6 @@
 language: python
 python:
   - "2.7"
-  - "3.2"
-  - "pypy"
 install:
   - "pip install requests"
-  - "pip install certifi"
 script: python test.py
