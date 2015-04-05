@@ -1,0 +1,10 @@
+{
+	"ein" : "20-3256212",
+	"name" : "Erowid Center",
+	"payments" : {
+		"bitcoin" : {
+			"address" : "17LYqSzhuWksgoGsgakiWBG8PmbCKyrrac",
+			"confirmation" : "https://www.erowid.org/donations/donations_cryptocurrency.php"
+		}
+	}
+}
