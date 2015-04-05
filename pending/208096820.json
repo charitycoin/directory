@@ -1,0 +1,11 @@
+/* dwolla address */
+{
+	"ein" : "20-8096820",
+	"name" : "Tor Project",
+	"payments" : {
+		"dwolla" : {
+			"address" : "https://www.dwolla.com/hub/thetorproject",
+			"confirmation" : "https://www.torproject.org/donate/donate.html.en"
+		}
+	}
+}
