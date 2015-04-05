@@ -1,0 +1,10 @@
+{
+	"ein" : "04-2888848",
+	"name" : "Free Software Foundation",
+	"payments" : {
+		"bitcoin" : {
+			"address" : "1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN",
+			"confirmation" : "https://my.fsf.org/donate/other/"
+		}
+	}
+}
