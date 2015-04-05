@@ -1,0 +1,10 @@
+{
+	"ein" : "26-1544963",
+	"name" : "KHAN ACADEMY INC",
+	"payments" : {
+		"coinbase" : {
+			"address" :  "",
+			"confirmation" : "https://www.khanacademy.org/donate"
+		}
+	}
+}
