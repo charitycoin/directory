@@ -1,0 +1,11 @@
+{
+  "ein" : "52-1795789",
+  "name" : "NPR Foundation",
+  "payments" : {
+    "venmo" : {
+      "url" : "https://venmo.com/NPR-Foundation",
+      "address" : "giving@npr.org",
+      "confirmation" : "http://www.npr.org/about-npr/187567807/npr-foundation"
+    }
+  }
+}
