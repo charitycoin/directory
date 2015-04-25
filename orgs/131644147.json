@@ -1,0 +1,11 @@
+{
+  "ein" : "13-1644147",
+  "name" : "Planned Parenthood Federation of America",
+  "payments" : {
+    "venmo" {
+      "url" : "https://venmo.com/Planned-Parenthood",
+      "address" : "member.services@ppfa.org",
+      "confirmation": "http://www.plannedparenthood.org/donate/stocks-securities-gifts"
+    }
+  }
+}
