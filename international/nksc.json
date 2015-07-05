@@ -1,0 +1,9 @@
+{
+  "name": "North Korea Strategy Center",
+  "payments": {
+    "bitcoin" : {
+      "address" : "1DXVwjZ9VEw1itJSceKE4MMWWMZoisd5Bu",
+      "confirmation" : "http://en.nksc.co.kr/donate-nksc/"
+    }
+  }
+}
