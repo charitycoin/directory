@@ -5,7 +5,7 @@
 	"payments" : {
 		"coinbase" : {
 			"address" : "https://coinbase.com/inline_payments/f701f89fb1bc664c2e7706490decb9d4",
-			"confirmation" : "http://www.unitedway.org/pages/donate-bitcoin-to-united-way"
+			"confirmation" : "http://www.unitedway.org/get-involved/ways-to-give/donate-bitcoin"
 		}
 	}
 }
